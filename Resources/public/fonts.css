@@ -1,0 +1,77 @@
+@font-face {
+    font-family: "Nepali";
+    src: url( fonts/Nepali.TTF );  /* IE */
+    src: local("realfontname"), url("fonts/Nepali.TTF") format("truetype"); /*non-IE*/
+}
+
+@font-face {
+    font-family: "Agra";
+    rc: url( fonts/AGRA.TTF );  /* IE */
+    src: local("realfontname"), url("fonts/AGRA.TTF") format("truetype"); /*non-IE*/
+}
+
+@font-face {
+    font-family: "Arjun";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/ARJUN.TTF") format("truetype"); /*non-IE*/
+}
+
+@font-face {
+    font-family: "Dev";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/dev.ttf") format("truetype"); /*non-IE*/
+}
+
+@font-face {
+    font-family: "Devnew";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/Devnew.ttf") format("truetype"); /*non-IE*/
+}
+
+@font-face {
+    font-family: "Himalaya";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/HIMALAYA.TTF") format("truetype"); /*non-IE*/
+}
+
+
+@font-face {
+    font-family: "Himali";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/HIMALI.TTF") format("truetype"); /*non-IE*/
+}
+
+
+@font-face {
+    font-family: "Kanchan";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/KANCHAN.TTF") format("truetype"); /*non-IE*/
+}
+
+
+@font-face {
+    font-family: "Mangal";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/mangal.ttf") format("truetype"); /*non-IE*/
+}
+
+
+@font-face {
+    font-family: "Preeti";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/preeti.TTF") format("truetype"); /*non-IE*/
+}
+
+
+@font-face {
+    font-family: "Ritu";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/RITU.TTF") format("truetype"); /*non-IE*/
+}
+
+
+@font-face {
+    font-family: "Sagar";
+    /*src: url( fonts/fontawesome-webfont.eot ); *//* IE */
+    src: local("realfontname"), url("fonts/SAGAR.TTF") format("truetype"); /*non-IE*/
+}

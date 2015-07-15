@@ -4,9 +4,17 @@
  */
 
 CKEDITOR.editorConfig = function( config ) {
-	// Define changes to default configuration here. For example:
-	// config.language = 'fr';
-	// config.uiColor = '#AADC6E';
+    // Define changes to default configuration here. For example:
+    // config.language = 'fr';
+    // config.uiColor = '#AADC6E';
+    //'./bundles/ivoryckeditor/fonts.css';
+
+    //var asset_url = "{{asset('bundles/ivoryckeditor/fonts.css')}}"; alert(asset_url);
+
+    //var host = window.location.hostname;
+    //alert(host);
+
+    //var content = '{{ contentId }}'; alert(content);
 
     config.contentsCss = '../../../bundles/ivoryckeditor/fonts.css';
 
